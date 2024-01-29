@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'krish-134', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -25,21 +25,13 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [''], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
         {
           title: 'Project Name',
           description:
@@ -85,28 +77,28 @@ const CONFIG = {
     'Python',
   ],
   experiences: [
-    {
-      company: '',
-      position: '',
-      from: '',
-      to: '',
-      companyLink: '',
-    },
-    {
-      company: '',
-      position: '',
-      from: '',
-      to: '',
-      companyLink: '',
-    },
+//    {
+//      company: '',
+//      position: '',
+//      from: '',
+//      to: '',
+//      companyLink: '',
+//    },
+//    {
+//      company: '',
+//      position: '',
+//      from: '',
+//      to: '',
+//      companyLink: '',
+//    },
   ],
   certifications: [
-    {
-      name: '',
-      body: '',
-      year: '',
-      link: '',
-    },
+//    {
+//      name: '',
+//      body: '',
+//      year: '',
+//      link: '',
+//    },
   ],
   educations: [
     {
@@ -114,12 +106,6 @@ const CONFIG = {
       degree: 'B.Sc',
       from: '2023',
       to: 'Expected 2027',
-    },
-    {
-      institution: '',
-      degree: '',
-      from: '',
-      to: '',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
@@ -137,7 +123,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'nord',
+    defaultTheme: 'dim',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
