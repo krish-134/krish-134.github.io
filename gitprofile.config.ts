@@ -68,7 +68,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://ubcca-my.sharepoint.com/:b:/r/personal/kgarch02_student_ubc_ca/Documents/Documents/Resumes/KrishnaGarcha-Resume-Jan_28_2024.pdf?csf=1&web=1&e=nMCqh2', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1uO06NBgsykY5iPAjgn__64qBlS8ck6ev/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Racket - ISL',
