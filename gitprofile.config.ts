@@ -40,6 +40,14 @@ const CONFIG = {
             '',
           link: 'https://github.com/krish-134/Audio-Speed-Changer-and-Reverb',
         },
+        {
+          title: 'Music-Listening Tracker',
+          description:
+            'Record musicians and songs into a music library and view the time you have spent listening to them!',
+          imageUrl:
+            '',
+          link: 'https://github.com/krish-134/Music-Listening-Tracker',
+        },
       ],
     },
   },
