@@ -48,6 +48,14 @@ const CONFIG = {
             '',
           link: 'https://github.com/krish-134/Music-Listening-Tracker',
         },
+        {
+          title: 'Pong-Game',
+          description:
+            'Enjoy a classic gaming experience with this recreation of Pong in java!',
+          imageUrl:
+            '',
+          link: 'https://github.com/krish-134/Pong-Game',
+        },
       ],
     },
   },
@@ -71,7 +79,7 @@ const CONFIG = {
     skype: '',
     telegram: '',
     website: '',
-    phone: '',
+    phone: '289-400-4522',
     email: 'garchakri@gmail.com',
   },
   resume: {
