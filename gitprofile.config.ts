@@ -75,15 +75,18 @@ const CONFIG = {
     'Java',
     'R',
     'Python',
+    'C/C++',
+    'JavaScript',
+    'TypeScript',
   ],
   experiences: [
-//    {
-//      company: '',
-//      position: '',
-//      from: '',
-//      to: '',
-//      companyLink: '',
-//    },
+   {
+     company: 'NETGEAR',
+     position: 'Orbi Wireless Test Engineer',
+     from: 'January 2025',
+     to: 'August 2025',
+     companyLink: 'https://www.linkedin.com/company/netgear/posts/?feedView=all',
+   },
 //    {
 //      company: '',
 //      position: '',
@@ -105,7 +108,7 @@ const CONFIG = {
       institution: 'The University of British Columbia',
       degree: 'B.Sc',
       from: '2023',
-      to: 'Expected 2027',
+      to: 'Expected 2028',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
