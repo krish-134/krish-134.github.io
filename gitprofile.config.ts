@@ -68,7 +68,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1MR0c26v4FFoG0btv-e-mWHg2G1LUw61Q/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1FPlkHblq_gDnJKQ3rnF6o-EkAVRHU9Az/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Racket - ISL',
